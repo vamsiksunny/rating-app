@@ -7,7 +7,6 @@ const app = express(); // to start a server
 app.use(routes); // to use the routes
 app.use(bodyParser.json()); // to tell body parser that I need a json
 
-
 const PORT = 3000;
 
 app.get('/', (req, res) => {
