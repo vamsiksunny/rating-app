@@ -1,0 +1,31 @@
+{
+    "airtribe" : [
+    {
+      "id": 1,
+      "course": "Introduction to JavaScript",
+      "instructor": "John Doe",
+      "duration": "4 weeks",
+      "enrollment": 150,
+      "rating": 0,
+      "numPeopleRated": 0
+    },
+    {
+      "id": 2,
+      "course": "Python Programming Basics",
+      "instructor": "Jane Smith",
+      "duration": "6 weeks",
+      "enrollment": 200,
+      "rating": 0,
+      "numPeopleRated": 0
+    },
+    {
+      "id": 3,
+      "course": "Web Development Fundamentals",
+      "instructor": "Alice Johnson",
+      "duration": "8 weeks",
+      "enrollment": 120,
+      "rating": 0,
+      "numPeopleRated": 0
+    }
+  ]
+}
